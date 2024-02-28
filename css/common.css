@@ -1,0 +1,21 @@
+@charset "utf-8";
+/*HEADER*/
+#bgheader{
+    background-color: #bebebe;
+    height: 40px;
+}
+#phone, #email, #searchbox, #icons{
+    background-color: #f9aaaa;
+    border: solid 1pt #771f1f;
+    height: 40px;
+}
+/*Navi*/
+#bgnavi{
+    background-color: black;
+    height: 80px;
+}
+#logo, #navi{
+    background-color: #bff4bf;
+    border: solid 1pt #0c460c;
+    height: 80px;
+}
